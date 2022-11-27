@@ -1,0 +1,5 @@
+# Interview readiness
+1. Three advantages of model serving are easier demonstration of model functionality, increased scalability, and leveraging cloud computing resources.
+2. ML model deployment is integrating the ML pipeline/model into a production environment that takes some input and outputs predictions and other information in a form that is useful for the business problem.
+3. Causal inference is the process of determining the effect of a factor/variable within a system. In other words, it is the process of determining causes inferred from data. This differs from correlation, which strictly looks at the relationship between different factors/variables.
+4. Serverless deployment dynamically allocates and scales resources for the application whereas server deployment requires server management with static resources.
